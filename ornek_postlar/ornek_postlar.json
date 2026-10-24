@@ -1,0 +1,122 @@
+[
+  {
+    "path": "ABA_Egitim_1.png",
+    "brand": "ABA Eğitim",
+    "title": "UCAS REFERANS MEKTUBU",
+    "subtitle": "Başvurudan önce kontrol et.",
+    "category": "UCAS İPUCU",
+    "caption": "UCAS başvurusunda referans mektubu sürecini erken planlamak, son dakika yoğunluğunu azaltır. Başvurunuzu tamamlamadan önce gerekli adımları birlikte kontrol edelim. Kontenjanlar sınırlı, tarihler programa göre değişebilir; yol haritanızı birlikte oluşturalım. Detaylı bilgi için bizimle iletişime geçin.",
+    "mode": "offline",
+    "official_logo_included": true
+  },
+  {
+    "path": "ABA_Egitim_2.png",
+    "brand": "ABA Eğitim",
+    "title": "ÜNİVERSİTE SEÇİMİ",
+    "subtitle": "Program, maliyet ve hedefini birlikte değerlendir.",
+    "category": "REHBER",
+    "caption": "Üniversite seçimi yalnızca sıralamaya bakmak değildir; program içeriği, maliyet ve kariyer hedefi birlikte değerlendirilmelidir. Doğru karar için süreci erken başlatmak önemlidir. Tarihler programa göre değişebilir; yol haritanızı birlikte oluşturalım. Detaylı bilgi için bizimle iletişime geçin.",
+    "mode": "offline",
+    "official_logo_included": true
+  },
+  {
+    "path": "ABA_Egitim_3.png",
+    "brand": "ABA Eğitim",
+    "title": "YAZ OKULU PLANI",
+    "subtitle": "Başvurudan önce üç soruyu yanıtla.",
+    "category": "CHECKLIST",
+    "caption": "Yaz okulu başvurusundan önce hedefinizi, programın içeriğini ve zamanlamayı netleştirmek gerekir. Bu üç soruya erken yanıt vermek süreci kolaylaştırır. Kontenjanlar sınırlı, tarihler programa göre değişebilir. Detaylı bilgi için bizimle iletişime geçin.",
+    "mode": "offline",
+    "official_logo_included": true
+  },
+  {
+    "path": "ABA_Psikoloji_1.png",
+    "brand": "ABA Psikoloji",
+    "title": "SINAV KAYGISI",
+    "subtitle": "Kaygı yaşamak tembellik anlamına gelmez.",
+    "category": "MİT / GERÇEK",
+    "caption": "Sınav kaygısı yaşamak tembellik değil, çoğu zaman yoğun bir baskıya verilen doğal bir tepkidir. Bugün küçük bir adım at: çalışma planını bir günlük parçalara böl. Destek almak istersen ABA Psikoloji ile iletişime geçebilirsin.",
+    "mode": "offline",
+    "official_logo_included": true
+  },
+  {
+    "path": "ABA_Psikoloji_2.png",
+    "brand": "ABA Psikoloji",
+    "title": "PSİKOLOJİK GÜVENLİK",
+    "subtitle": "Destekleyici bir ortam nasıl kurulur?",
+    "category": "REHBER",
+    "caption": "Her ebeveyn çocuğu için en iyisini ister. Ancak destekleyici bir ortam, önce dinlemekle başlar. Bu hafta çocuğunuzla yargılamadan bir sohbet için on dakika ayırmayı deneyin. İhtiyaç duyarsanız ABA Psikoloji ile iletişime geçebilirsiniz.",
+    "mode": "offline",
+    "official_logo_included": true
+  },
+  {
+    "path": "ABA_Psikoloji_3.png",
+    "brand": "ABA Psikoloji",
+    "title": "GÜÇLÜ YÖNLERİN",
+    "subtitle": "Kendini tanımak bir süreçtir.",
+    "category": "BİLGİLENDİRME",
+    "caption": "Güçlü yönlerini tanımak tek seferlik bir sonuç değil, zamanla gelişen bir süreçtir. Bugün başarılı hissettiğin üç anı not et ve ortak noktalarına bak. Bu küçük adım kendini daha iyi anlamana yardımcı olabilir.",
+    "mode": "offline",
+    "official_logo_included": true
+  },
+  {
+    "path": "E4I_1.png",
+    "brand": "Education for Innovation",
+    "title": "WHAT IS A HACKATHON?",
+    "subtitle": "From idea to prototype, together.",
+    "category": "HACKATHON 101",
+    "caption": "A hackathon is a time-limited event where teams turn an idea into a working prototype. You do not need to be an expert, just curious. Plan, build, pitch. Follow @e4i_vakfi for more. Always check the official rules of each event; eligibility and conditions are set by the organizer.",
+    "mode": "offline",
+    "official_logo_included": true
+  },
+  {
+    "path": "E4I_2.png",
+    "brand": "Education for Innovation",
+    "title": "FUTURE SKILLS",
+    "subtitle": "Curiosity. Problem solving. Building together.",
+    "category": "SAVEABLE PLAYBOOK",
+    "caption": "Future skills start with curiosity. Ask better questions, solve real problems, and build with others. Save this and come back when you plan your next project. Follow @e4i_vakfi for more. Always check official pages for details of any opportunity.",
+    "mode": "offline",
+    "official_logo_included": true
+  },
+  {
+    "path": "E4I_3.png",
+    "brand": "Education for Innovation",
+    "title": "INNOVATION MINDSET",
+    "subtitle": "New ideas start with a question.",
+    "category": "INSIGHT",
+    "caption": "Innovation rarely starts with an answer. It starts with a question you cannot stop thinking about. Write yours down today. Follow. Learn. Build. Follow @e4i_vakfi for more. Check official pages for rules before applying to any opportunity.",
+    "mode": "offline",
+    "official_logo_included": true
+  },
+  {
+    "path": "Design_House_Global_1.png",
+    "brand": "Design House Global",
+    "title": "YOUR PORTFOLIO — IS NOT YOUR ARCHIVE.",
+    "subtitle": "Choose what leads. Cut what competes.",
+    "category": "PORTFOLIO TIPS",
+    "caption": "A strong portfolio is not just a collection of projects. It is a sequence of decisions. Decide what the viewer should notice first, then give it space. Hierarchy is not decoration. It is direction. Check our blog for more. ✦",
+    "mode": "offline",
+    "official_logo_included": true
+  },
+  {
+    "path": "Design_House_Global_2.png",
+    "brand": "Design House Global",
+    "title": "PROCESS — OVER POLISH.",
+    "subtitle": "Show the decisions behind your work.",
+    "category": "STUDIO NOTES",
+    "caption": "Polish shows the result. Process shows the thinking. Admissions readers look for how you arrived, not only where you ended up. Show the sketch, the revision, the reason. Design how it is understood. Check our blog for more. ✦",
+    "mode": "offline",
+    "official_logo_included": true
+  },
+  {
+    "path": "Design_House_Global_3.png",
+    "brand": "Design House Global",
+    "title": "BUILD — YOUR VOICE.",
+    "subtitle": "A strong portfolio tells a clear story.",
+    "category": "DESIGN INSIGHT",
+    "caption": "A portfolio page is a space. Consistency is not repetition. More is not always the answer. Sometimes the gap is. Let a clear voice connect your projects. Design how it is experienced. Check our blog for more. ✦",
+    "mode": "offline",
+    "official_logo_included": true
+  }
+]

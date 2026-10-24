@@ -1,0 +1,50 @@
+{
+  "ABA_Egitim": {
+    "name": "ABA Eğitim", "url": "https://abaegitim.com/", "lang": "tr", "layout": "pill",
+    "colors": {"bg": "#0F1D3D", "fg": "#FFFFFF", "accent": "#E8672B", "tag_bg": "#E8672B", "tag_fg": "#FFFFFF", "strip_bg": "#0F1D3D", "strip_fg": "#FFFFFF", "strip_line": "#E8672B", "highlight_last_word": true},
+    "font_file": "Montserrat-ExtraBold.ttf", "font_note": "Kit: Montserrat (web); Instagram gözlemi",
+    "tone": "Aciliyet, otorite, veri; görselde 'sen' + kısa komut, caption'da 'siz'. Tarih/sayı/istatistik uydurma.",
+    "audience": "Lise öğrencileri ve veliler",
+    "topics": [
+      ["UCAS REFERANS MEKTUBU", "Başvurudan önce kontrol et.", "UCAS İPUCU", "UCAS başvurusunda referans mektubu sürecini erken planlamak, son dakika yoğunluğunu azaltır. Başvurunuzu tamamlamadan önce gerekli adımları birlikte kontrol edelim. Kontenjanlar sınırlı, tarihler programa göre değişebilir; yol haritanızı birlikte oluşturalım. Detaylı bilgi için bizimle iletişime geçin."],
+      ["ÜNİVERSİTE SEÇİMİ", "Program, maliyet ve hedefini birlikte değerlendir.", "REHBER", "Üniversite seçimi yalnızca sıralamaya bakmak değildir; program içeriği, maliyet ve kariyer hedefi birlikte değerlendirilmelidir. Doğru karar için süreci erken başlatmak önemlidir. Tarihler programa göre değişebilir; yol haritanızı birlikte oluşturalım. Detaylı bilgi için bizimle iletişime geçin."],
+      ["YAZ OKULU PLANI", "Başvurudan önce üç soruyu yanıtla.", "CHECKLIST", "Yaz okulu başvurusundan önce hedefinizi, programın içeriğini ve zamanlamayı netleştirmek gerekir. Bu üç soruya erken yanıt vermek süreci kolaylaştırır. Kontenjanlar sınırlı, tarihler programa göre değişebilir. Detaylı bilgi için bizimle iletişime geçin."]
+    ]
+  },
+  "ABA_Psikoloji": {
+    "name": "ABA Psikoloji", "url": "https://abapsikoloji.com/", "lang": "tr", "layout": "card",
+    "colors": {"bg": "#FDF6EC", "fg": "#0F172B", "accent": "#EE7A2B", "tag_bg": "#8E2F4E", "tag_fg": "#FFFFFF", "tag_bg_myth": "#5F7F6A", "strip_bg": "#EE7A2B", "strip_fg": "#0F172B", "strip_line": "#EE7A2B", "highlight_last_word": false},
+    "font_file": "Inter-ExtraBold.ttf", "font_note": "Kit: Inter (web). Not: turuncu metin krem üstünde kontrast yetersiz, başlık koyu bırakıldı.",
+    "tone": "Sıcak, yargılamayan, bilimsel; tanı/garanti/korkutma yok; küçük uygulanabilir adım; öğrenciye 'sen', ebeveyne 'siz'.",
+    "audience": "Öğrenciler ve ebeveynler",
+    "topics": [
+      ["SINAV KAYGISI", "Kaygı yaşamak tembellik anlamına gelmez.", "MİT / GERÇEK", "Sınav kaygısı yaşamak tembellik değil, çoğu zaman yoğun bir baskıya verilen doğal bir tepkidir. Bugün küçük bir adım at: çalışma planını bir günlük parçalara böl. Destek almak istersen ABA Psikoloji ile iletişime geçebilirsin."],
+      ["PSİKOLOJİK GÜVENLİK", "Destekleyici bir ortam nasıl kurulur?", "REHBER", "Her ebeveyn çocuğu için en iyisini ister. Ancak destekleyici bir ortam, önce dinlemekle başlar. Bu hafta çocuğunuzla yargılamadan bir sohbet için on dakika ayırmayı deneyin. İhtiyaç duyarsanız ABA Psikoloji ile iletişime geçebilirsiniz."],
+      ["GÜÇLÜ YÖNLERİN", "Kendini tanımak bir süreçtir.", "BİLGİLENDİRME", "Güçlü yönlerini tanımak tek seferlik bir sonuç değil, zamanla gelişen bir süreçtir. Bugün başarılı hissettiğin üç anı not et ve ortak noktalarına bak. Bu küçük adım kendini daha iyi anlamana yardımcı olabilir."]
+    ]
+  },
+  "E4I": {
+    "name": "Education for Innovation", "url": "https://www.educationforinnovation.org/", "lang": "en", "layout": "pill",
+    "colors": {"bg": "#0B1230", "fg": "#FFFFFF", "accent": "#B6F03C", "tag_bg": "#B6F03C", "tag_fg": "#0B1230", "strip_bg": "#B6F03C", "strip_fg": "#0B1230", "strip_line": "#B6F03C", "highlight_last_word": true},
+    "font_file": "Roboto-Black.ttf", "font_note": "Kit: Roboto (web); Instagram fontu doğrulanmadı",
+    "tone": "Cesaretlendirici ama ölçülü, 'you' + emir kipi; üçlü ritim; ödül/tarih/uygunluk uydurma; resmi sayfayı kontrol et notu.",
+    "audience": "Students and young innovators",
+    "topics": [
+      ["WHAT IS A HACKATHON?", "From idea to prototype, together.", "HACKATHON 101", "A hackathon is a time-limited event where teams turn an idea into a working prototype. You do not need to be an expert, just curious. Plan, build, pitch. Follow @e4i_vakfi for more. Always check the official rules of each event; eligibility and conditions are set by the organizer."],
+      ["FUTURE SKILLS", "Curiosity. Problem solving. Building together.", "SAVEABLE PLAYBOOK", "Future skills start with curiosity. Ask better questions, solve real problems, and build with others. Save this and come back when you plan your next project. Follow @e4i_vakfi for more. Always check official pages for details of any opportunity."],
+      ["INNOVATION MINDSET", "New ideas start with a question.", "INSIGHT", "Innovation rarely starts with an answer. It starts with a question you cannot stop thinking about. Write yours down today. Follow. Learn. Build. Follow @e4i_vakfi for more. Check official pages for rules before applying to any opportunity."]
+    ]
+  },
+  "Design_House_Global": {
+    "name": "Design House Global", "url": "https://www.designhouseglobal.com/", "lang": "en", "layout": "frame",
+    "colors": {"bg": "#0F0B0A", "fg": "#F4F1EA", "accent": "#F4F1EA", "tag_bg": "#6E1F2A", "tag_fg": "#F4F1EA", "strip_bg": "#0F0B0A", "strip_fg": "#F4F1EA", "strip_line": "#F4F1EA", "highlight_last_word": false},
+    "font_file": "Archivo-ExtraBold.ttf", "font_note": "Kit: Archivo + DM Mono",
+    "tone": "Calm, precise, intellectual; 'X — Y.' headlines; no exclamation marks, no guarantees, no emoji except a final ✦.",
+    "audience": "Students applying to art, design and architecture schools",
+    "topics": [
+      ["YOUR PORTFOLIO — IS NOT YOUR ARCHIVE.", "Choose what leads. Cut what competes.", "PORTFOLIO TIPS", "A strong portfolio is not just a collection of projects. It is a sequence of decisions. Decide what the viewer should notice first, then give it space. Hierarchy is not decoration. It is direction. Check our blog for more. ✦"],
+      ["PROCESS — OVER POLISH.", "Show the decisions behind your work.", "STUDIO NOTES", "Polish shows the result. Process shows the thinking. Admissions readers look for how you arrived, not only where you ended up. Show the sketch, the revision, the reason. Design how it is understood. Check our blog for more. ✦"],
+      ["BUILD — YOUR VOICE.", "A strong portfolio tells a clear story.", "DESIGN INSIGHT", "A portfolio page is a space. Consistency is not repetition. More is not always the answer. Sometimes the gap is. Let a clear voice connect your projects. Design how it is experienced. Check our blog for more. ✦"]
+    ]
+  }
+}
